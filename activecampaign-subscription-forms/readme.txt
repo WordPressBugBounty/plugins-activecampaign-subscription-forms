@@ -1,4 +1,4 @@
-=== ActiveCampaign - Forms, Site Tracking, Live Chat ===
+=== ActiveCampaign - The autonomous marketing platform ===
 Contributors: activecampaign
 Tags: activecampaign, marketing automation, email marketing, AI agent, business growth
 Requires at least: 2.0
@@ -12,49 +12,40 @@ Add ActiveCampaign contact forms and live chat to any post, page, or sidebar. Al
 
 == Description ==
 
-Create personalized customer experiences across channels with the ActiveCampaign plug-in for WordPress.
+ActiveCampaign is the autonomous marketing platform built to transform how marketers, agencies, and business owners work. Use Active Intelligence to power goal-aware automations and orchestrate personalized experiences across email, SMS, and WhatsApp. Effortlessly integrate with 1000+ apps, uncover deep performance insights, and optimize your workflows so you win every day.
 
-ActiveCampaign's WordPress marketing automation plugin makes it easy to:
-
-* Embed ActiveCampaign forms directly into any post, page, or sidebar
-* Use site tracking to track visitors to your website
-* Enable live chat for accounts using ActiveCampaign Conversations
-
-<strong>Make your website profitable</strong>
-Turn your website into a viable customer engagement channel by attributing sales and conversions to site visitors with [ActiveCampaign site tracking](https://www.activecampaign.com/marketing-automation/website-tracking?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=wordpress_listing_may_2022). Discover which products, services, and information your site visitors are most interested in—then trigger automated personalized follow-up emails that drive more revenue.
-
-<strong>Drive the right traffic to your website</strong>
-With only so many hours in a day, it's crucial to spend your precious time on the right customers. Use [ActiveCampaign forms](https://www.activecampaign.com/email-marketing/signup-forms?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=wordpress_listing_may_2022) on your WordPress site to help identify customers who are ready to buy, while firing automated emails to customers who still need a little warming up.
-
-<strong>Keep your visitors engaged</strong>
-Once a visitor visits your site, now what? It's not enough to simply get them to the homepage, you need to keep them interested with relevant content that will keep them coming back. Add [ActiveCampaign Conversations](https://www.activecampaign.com/customer-messaging/conversations?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=wordpress_listing_may_2022) to your WordPress site to engage your customers in real time while leaning on automated nurture streams that keep pulling visitors back for more.
+* <strong>Autonomous marketing</strong>
+Built on the foundation of marketing automation, fuel your marketing strategy and customer journeys with AI-driven execution, optimization, and insight at every step.
+* <strong>AI agents</strong>
+Run entire marketing campaigns through simple prompts, backed by Active Intelligence.
+* <strong>Cross-channel marketing</strong>
+Reach prospects and customers wherever they are, with email, SMS, WhatsApp, and more.
+* <strong>On-brand, personalized content</strong>
+Creative tools that deliver professional, conversion-ready designs for email and landing pages.
+* <strong>CRM</strong>
+Track, manage, and automate your sales process.
+* <strong>1000+ apps & integrations</strong>
+Connect ActiveCampaign to your favorite tools.
 
 
-Your WordPress website is as much a part of your business as a physical storefront, email newsletters, and direct interactions with customers. Supercharge your WordPress site with ActiveCampaign [Customer Experience Automation (CXA)](https://www.activecampaign.com/customer-experience-automation?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=wordpress_listing_may_2022) to drive smarter, more targeted marketing promotions.
+<strong>WooCommerce + ActiveCampaign</strong>
+Turn on ActiveCampaign [site tracking](https://help.activecampaign.com/hc/en-us/articles/9127994708636-Use-ActiveCampaign-Site-Tracking-with-WordPress) in just a few clicks.
+Seamlessly add ActiveCampaign forms to your WordPress website.
 
-
-Don't have an ActiveCampaign account? [Sign up for a free trial to get started](https://www.activecampaign.com/free?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=wordpress_listing_may_2022).
-
-Ready to get started with the ActiveCampaign plug-in for WordPress? [Here's how].
-
-
-<strong>DESCRIPTION OF ACTIVECAMPAIGN</strong>
-
-ActiveCampaign's category-defining Customer Experience Automation Platform (CXA) helps over [150,000 businesses](https://www.activecampaign.com/tomorrows-business/?utm_source=unpaid_syndication_website&utm_medium=referral&utm_campaign=wordpress_listing_may_2022) in 170 countries meaningfully engage with their customers. The platform gives businesses of all sizes access to 800+ pre-built automations that combine transactional email and email marketing, marketing automation and CRM for powerful segmentation and personalization across social, email, messaging, chat and text. Over 70% of ActiveCampaign's customers use its 870+ integrations including WordPress, Microsoft, Shopify, Square, Facebook, and Salesforce.
-
-ActiveCampaign scores higher in customer satisfaction than any other solution in Marketing Automation, CRM, and E-Commerce Personalization on [G2.com](https://g2.com/) and is the Top Rated Marketing Automation Software on TrustRadius. Pricing starts at just $9/month.
+Learn more: [How to use the ActiveCampaign WordPress Plugin](https://help.activecampaign.com/hc/en-us/articles/222475388-Use-the-ActiveCampaign-WordPress-plugin)
 
 
 == Screenshots ==
 
-1. Connect your WordPress site to ActiveCampaign
-2. ActiveCampaign features an easy-to-use Automation Builder with Page Event triggers
-3. Segment and target users based on their interactions with your website
+1. Active Intelligence Workspace
+2. Form Builder
+3. Automation Builder
 4. Settings page for ActiveCampaign plugin
 5. Configuring your form settings
-6. Using the ActiveCampaign Button in the Classic Editor
-7. Viewing the output of the [activecampaign] shortcode
-8. Adding an AC Forms block into the Gutenberg Block Editor
+6. AI Brand Kit
+7. Active Intelligence
+8. Cross-channel marketing
+9. Deals CRM
 
 
 == Installation ==
@@ -91,14 +82,6 @@ If you enable the "Ajax" option of the plugin settings, you can have the form su
 
 Yes, you would just make sure that your form settings (in ActiveCampaign) have the Opt-in confirmation setting checked.
 
-= How does live chat work? =
-
-Live chat is a feature of Conversations, an add-on available to ActiveCampaign users that enables multi-channel communication with your customers through a unified inbox. To activate live chat for your Wordpress website you must first start a trial or purchase Conversations. Learn more [here](https://www.activecampaign.com/customer-messaging/conversations).
-
-= How will I know I have received a live chat message from a visitor? =
-
-All live chat messages will display in the Conversations inbox in your ActiveCampaign account. You can receive desktop and audio notifications when the messages are received, or use our Conversations mobile app (available for iOS and Android) to get push notifications on your phone and respond on the go.
-
 = I get a "Connection failed" message. What does this mean? =
 
 Please make sure that your login information is correct, and that you have at least one Integration form already created in the ActiveCampaign system.
@@ -114,6 +97,15 @@ You can report security bugs through ActiveCampaign's security disclosure form h
 
 
 == Changelog ==
+= 8.1.21 =
+* Update plugin branding
+
+= 8.1.20 =
+* Update description of plugin to reflect current ActiveCampaign features
+
+= 8.1.19 =
+* Update description of plugin to reflect current ActiveCampaign features
+
 = 8.1.18 =
 * Update supported versions of WordPress
 
